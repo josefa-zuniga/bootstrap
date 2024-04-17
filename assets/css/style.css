@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #28A745;
+
+}
+.menu-1{
+    background-color: #28A745;
+    
+}
+.container-fluid{
+    background-color: #28A745;
+    padding: 30px;
+  
+}
+.navbar-nav{
+    background-color:#28A745;
+    position: relative;
+    right: -500px;}
+
+.logo{
+    width: 100px;
+}
+.card-group{
+    margin: 20px;
+}
+.formulario{
+    background-color: #28A745;
+    padding: 50px;
+}
+.card{
+    margin: 20px;
+}
+.latam-atacama{
+    color: #707070;
+    font-size: 16pt;
+}
+.card-text{
+    color: #707070;
+    font-size: 16pt;
+}
+.card-verde{
+    color: #28A745;
+    font-size: 20pt;
+   }
+.card-title{
+    font-size: 20pt;
+}
+
+.ct{
+    color: #707070;
+    font-size: 16pt;
+}
+.direccion{
+    font-size: 13pt;
+    color: #707070;
+}
+.formulario{
+    color: white;
+    font-size: 21pt;
+    text-align:center ;
+}
+.logo-negro{   
+    width: 82px;
+    display:block;
+margin:auto;
+    }
+    .final{ color: #707070;
+    font-size: 16pt;
+text-align: center;}
+.text-old{color: #707070;
+    font-size: 16pt;
+    
+}
+.text-price{
+    color: #28A745;
+    font-size: 20pt;
+
+}
+.precios{
+    display: flex;
+    justify-content:end;
+    gap: 70px;
+}
